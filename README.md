@@ -36,4 +36,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0142-linked-list-cycle-ii) |
+## Math
+|  |
+| ------- |
+| [0263-ugly-number](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0263-ugly-number) |
 <!---LeetCode Topics End-->
