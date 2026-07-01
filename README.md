@@ -42,4 +42,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0263-ugly-number](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0263-ugly-number) |
+## String
+|  |
+| ------- |
+| [0520-detect-capital](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0520-detect-capital) |
 <!---LeetCode Topics End-->
