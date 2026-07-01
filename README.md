@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0238-product-of-array-except-self](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0287-find-the-duplicate-number) |
+| [1480-running-sum-of-1d-array](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/1480-running-sum-of-1d-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0238-product-of-array-except-self) |
+| [1480-running-sum-of-1d-array](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/1480-running-sum-of-1d-array) |
 ## Hash Table
 |  |
 | ------- |
