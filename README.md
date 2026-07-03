@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0016-3sum-closest) |
 | [0054-spiral-matrix](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0059-spiral-matrix-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0016-3sum-closest) |
 | [0142-linked-list-cycle-ii](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0142-linked-list-cycle-ii) |
 | [0287-find-the-duplicate-number](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0287-find-the-duplicate-number) |
 ## Binary Search
@@ -81,4 +83,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0059-spiral-matrix-ii) |
+## Sorting
+|  |
+| ------- |
+| [0016-3sum-closest](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0016-3sum-closest) |
 <!---LeetCode Topics End-->
