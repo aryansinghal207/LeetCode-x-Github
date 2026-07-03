@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0287-find-the-duplicate-number) |
 | [0875-koko-eating-bananas](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0875-koko-eating-bananas) |
 | [1480-running-sum-of-1d-array](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/1480-running-sum-of-1d-array) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -33,10 +34,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0238-product-of-array-except-self) |
 | [1480-running-sum-of-1d-array](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/1480-running-sum-of-1d-array) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Hash Table
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0142-linked-list-cycle-ii) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Linked List
 |  |
 | ------- |
@@ -50,4 +53,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0520-detect-capital](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0520-detect-capital) |
+## Divide and Conquer
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Segment Tree
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Merge Sort
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Counting
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/3737-count-subarrays-with-majority-element-i) |
 <!---LeetCode Topics End-->
