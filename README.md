@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0054-spiral-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0238-product-of-array-except-self](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0287-find-the-duplicate-number) |
@@ -69,4 +70,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0054-spiral-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
