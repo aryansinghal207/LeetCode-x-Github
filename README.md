@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0287-find-the-duplicate-number) |
 | [0875-koko-eating-bananas](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0875-koko-eating-bananas) |
+| [1288-remove-covered-intervals](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/1288-remove-covered-intervals) |
 | [1480-running-sum-of-1d-array](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/1480-running-sum-of-1d-array) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Dynamic Programming
@@ -87,4 +88,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0016-3sum-closest) |
+| [1288-remove-covered-intervals](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/1288-remove-covered-intervals) |
 <!---LeetCode Topics End-->
