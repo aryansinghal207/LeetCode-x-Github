@@ -14,7 +14,6 @@ class Solution {
                 maxEnd = intervals[i][1];
             }
         }
-
         return count;
     }
 }
