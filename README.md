@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0263-ugly-number](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0263-ugly-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## String
 |  |
 | ------- |
