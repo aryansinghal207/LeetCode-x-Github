@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0509-fibonacci-number](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0509-fibonacci-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0263-ugly-number](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0263-ugly-number) |
+| [0509-fibonacci-number](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0509-fibonacci-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## String
@@ -90,4 +92,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0016-3sum-closest) |
 | [1288-remove-covered-intervals](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/1288-remove-covered-intervals) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
