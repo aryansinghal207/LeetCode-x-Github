@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0016-3sum-closest) |
+| [0039-combination-sum](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0046-permutations) |
 | [0054-spiral-matrix](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0059-spiral-matrix-ii) |
@@ -104,5 +105,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
