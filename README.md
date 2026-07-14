@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0198-house-robber) |
 | [0238-product-of-array-except-self](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0287-find-the-duplicate-number) |
+| [0815-bus-routes](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0815-bus-routes) |
 | [0875-koko-eating-bananas](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0875-koko-eating-bananas) |
 | [1288-remove-covered-intervals](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/1331-rank-transform-of-an-array) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0142-linked-list-cycle-ii) |
+| [0815-bus-routes](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0815-bus-routes) |
 | [1331-rank-transform-of-an-array](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/1331-rank-transform-of-an-array) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Linked List
@@ -116,4 +118,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/1291-sequential-digits) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0815-bus-routes](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0815-bus-routes) |
 <!---LeetCode Topics End-->
