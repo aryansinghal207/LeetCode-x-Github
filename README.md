@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0287-find-the-duplicate-number) |
 | [0815-bus-routes](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0815-bus-routes) |
 | [0875-koko-eating-bananas](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0875-koko-eating-bananas) |
+| [0946-validate-stack-sequences](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0946-validate-stack-sequences) |
 | [1288-remove-covered-intervals](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/1331-rank-transform-of-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/1480-running-sum-of-1d-array) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0059-spiral-matrix-ii) |
+| [0946-validate-stack-sequences](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0946-validate-stack-sequences) |
 ## Sorting
 |  |
 | ------- |
@@ -125,4 +127,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0815-bus-routes](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0815-bus-routes) |
+## Stack
+|  |
+| ------- |
+| [0946-validate-stack-sequences](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0946-validate-stack-sequences) |
 <!---LeetCode Topics End-->
