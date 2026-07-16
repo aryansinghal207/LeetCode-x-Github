@@ -149,4 +149,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
