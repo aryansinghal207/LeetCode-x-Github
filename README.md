@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/1331-rank-transform-of-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/1480-running-sum-of-1d-array) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0016-3sum-closest) |
 | [0142-linked-list-cycle-ii](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0142-linked-list-cycle-ii) |
 | [0287-find-the-duplicate-number](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0287-find-the-duplicate-number) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
 |  |
 | ------- |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
 |  |
 | ------- |
@@ -107,12 +110,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0059-spiral-matrix-ii) |
 | [0946-validate-stack-sequences](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0946-validate-stack-sequences) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0016-3sum-closest) |
 | [1288-remove-covered-intervals](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/1331-rank-transform-of-an-array) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Recursion
 |  |
 | ------- |
@@ -143,4 +148,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 <!---LeetCode Topics End-->
