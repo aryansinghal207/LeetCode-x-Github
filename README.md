@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0016-3sum-closest) |
+| [0036-valid-sudoku](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0046-permutations) |
 | [0054-spiral-matrix](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0054-spiral-matrix) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0036-valid-sudoku) |
 | [0142-linked-list-cycle-ii](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0142-linked-list-cycle-ii) |
 | [0525-contiguous-array](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0525-contiguous-array) |
 | [0815-bus-routes](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0815-bus-routes) |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0036-valid-sudoku) |
 | [0054-spiral-matrix](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0059-spiral-matrix-ii) |
 | [1260-shift-2d-grid](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/1260-shift-2d-grid) |
