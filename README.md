@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0072-edit-distance](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0072-edit-distance) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0198-house-robber) |
 | [0509-fibonacci-number](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0509-fibonacci-number) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0072-edit-distance](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0072-edit-distance) |
 | [0316-remove-duplicate-letters](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0316-remove-duplicate-letters) |
 | [0520-detect-capital](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0520-detect-capital) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/1081-smallest-subsequence-of-distinct-characters) |
