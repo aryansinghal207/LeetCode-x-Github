@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0016-3sum-closest) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0142-linked-list-cycle-ii](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0142-linked-list-cycle-ii) |
 | [0287-find-the-duplicate-number](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0287-find-the-duplicate-number) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0142-linked-list-cycle-ii](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0142-linked-list-cycle-ii) |
 ## Math
 |  |
