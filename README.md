@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0628-maximum-product-of-three-numbers) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0520-detect-capital) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/2287-rearrange-characters-to-make-target-string) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Divide and Conquer
 |  |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0316-remove-duplicate-letters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Monotonic Stack
 |  |
 | ------- |
