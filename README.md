@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0169-majority-element) |
+| [0179-largest-number](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0179-largest-number) |
 | [0198-house-robber](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0229-majority-element-ii) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0072-edit-distance](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0072-edit-distance) |
+| [0179-largest-number](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0179-largest-number) |
 | [0316-remove-duplicate-letters](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0316-remove-duplicate-letters) |
 | [0520-detect-capital](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0520-detect-capital) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0016-3sum-closest) |
 | [0169-majority-element](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0169-majority-element) |
+| [0179-largest-number](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0229-majority-element-ii) |
 | [0324-wiggle-sort-ii](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0324-wiggle-sort-ii) |
@@ -218,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0179-largest-number) |
 | [0316-remove-duplicate-letters](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0316-remove-duplicate-letters) |
 | [0324-wiggle-sort-ii](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0324-wiggle-sort-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/1081-smallest-subsequence-of-distinct-characters) |
