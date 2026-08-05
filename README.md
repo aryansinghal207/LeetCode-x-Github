@@ -217,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0815-bus-routes](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0815-bus-routes) |
+| [3310-remove-methods-from-project](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/3310-remove-methods-from-project) |
 ## Stack
 |  |
 | ------- |
@@ -271,4 +272,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/1406-stone-game-iii) |
+## Depth-First Search
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/3310-remove-methods-from-project) |
+## Graph Theory
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/3310-remove-methods-from-project) |
 <!---LeetCode Topics End-->
