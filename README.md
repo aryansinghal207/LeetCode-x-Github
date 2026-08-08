@@ -102,11 +102,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0002-add-two-numbers) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0142-linked-list-cycle-ii](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0142-linked-list-cycle-ii) |
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0002-add-two-numbers) |
 | [0231-power-of-two](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0263-ugly-number) |
 | [0371-sum-of-two-integers](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0371-sum-of-two-integers) |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0002-add-two-numbers) |
 | [0231-power-of-two](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0231-power-of-two) |
 | [0486-predict-the-winner](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0509-fibonacci-number) |
