@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/1510-stone-game-iv) |
 ## Two Pointers
 |  |
 | ------- |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/1140-stone-game-ii) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1406-stone-game-iii](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/1510-stone-game-iv) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -284,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/1510-stone-game-iv) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -296,8 +299,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/1510-stone-game-iv) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/1510-stone-game-iv) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
