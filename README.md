@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0287-find-the-duplicate-number) |
 | [0324-wiggle-sort-ii](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0324-wiggle-sort-ii) |
 | [0414-third-maximum-number](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0414-third-maximum-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0486-predict-the-winner](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0486-predict-the-winner) |
 | [0525-contiguous-array](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0525-contiguous-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0628-maximum-product-of-three-numbers) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0229-majority-element-ii) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0525-contiguous-array](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0525-contiguous-array) |
 | [0815-bus-routes](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0815-bus-routes) |
 | [1331-rank-transform-of-an-array](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/1331-rank-transform-of-an-array) |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0229-majority-element-ii) |
 | [0324-wiggle-sort-ii](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0324-wiggle-sort-ii) |
 | [0414-third-maximum-number](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0414-third-maximum-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/1331-rank-transform-of-an-array) |
