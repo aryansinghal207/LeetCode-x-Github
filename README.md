@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/1331-rank-transform-of-an-array) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1406-stone-game-iii](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/1480-running-sum-of-1d-array) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0525-contiguous-array) |
 | [0815-bus-routes](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0815-bus-routes) |
 | [1331-rank-transform-of-an-array](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/1331-rank-transform-of-an-array) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0229-majority-element-ii) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/3737-count-subarrays-with-majority-element-i) |
