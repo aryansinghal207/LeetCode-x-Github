@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0002-add-two-numbers) |
+| [0043-multiply-strings](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0048-rotate-image) |
 | [0231-power-of-two](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0263-ugly-number) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0043-multiply-strings) |
 | [0072-edit-distance](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0072-edit-distance) |
 | [0179-largest-number](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0179-largest-number) |
 | [0316-remove-duplicate-letters](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0316-remove-duplicate-letters) |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0059-spiral-matrix-ii) |
 | [0946-validate-stack-sequences](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0946-validate-stack-sequences) |
