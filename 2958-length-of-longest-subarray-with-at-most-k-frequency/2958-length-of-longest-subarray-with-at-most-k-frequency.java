@@ -1,0 +1,16 @@
+class Solution {
+    public int maxSubarrayLength(int[] nums, int k) {
+        int n=nums.length;
+        HashMap<Integer,Integer> map=new HashMap<>();
+        int i=0,count=0;
+        for(int j=0;j<n;j++){
+            map.put(nums[j],map.getOrDefault(nums[j],0)+1);
+            while(map.get(nums[j])>k){
+                map.put(nums[i],map.get(nums[i])-1);
+                i++;
+            }
+            count=Math.max(count,j-i+1);
+        }
+        return count;
+    }
+}
