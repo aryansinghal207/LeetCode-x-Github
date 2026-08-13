@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0263-ugly-number) |
 | [0292-nim-game](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0292-nim-game) |
+| [0326-power-of-three](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0326-power-of-three) |
 | [0371-sum-of-two-integers](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0371-sum-of-two-integers) |
 | [0412-fizz-buzz](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0412-fizz-buzz) |
 | [0486-predict-the-winner](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0486-predict-the-winner) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0002-add-two-numbers) |
 | [0231-power-of-two](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0326-power-of-three) |
 | [0486-predict-the-winner](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0509-fibonacci-number) |
 ## Memoization
