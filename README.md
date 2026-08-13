@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0048-rotate-image) |
 | [0231-power-of-two](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0263-ugly-number) |
+| [0292-nim-game](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0292-nim-game) |
 | [0371-sum-of-two-integers](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0371-sum-of-two-integers) |
 | [0412-fizz-buzz](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0412-fizz-buzz) |
 | [0486-predict-the-winner](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0486-predict-the-winner) |
@@ -305,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0292-nim-game) |
 | [0486-predict-the-winner](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/1140-stone-game-ii) |
@@ -321,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Minimax
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0292-nim-game) |
 | [1140-stone-game-ii](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/1510-stone-game-iv) |
 ## Zero-Sum Game
@@ -331,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Nim Game
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0292-nim-game) |
 | [1510-stone-game-iv](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/1510-stone-game-iv) |
 ## Sprague–Grundy Theorem
 |  |
@@ -340,4 +344,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
