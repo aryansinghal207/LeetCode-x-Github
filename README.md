@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0263-ugly-number) |
 | [0371-sum-of-two-integers](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0371-sum-of-two-integers) |
+| [0412-fizz-buzz](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0412-fizz-buzz) |
 | [0486-predict-the-winner](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0628-maximum-product-of-three-numbers) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0072-edit-distance) |
 | [0179-largest-number](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0179-largest-number) |
 | [0316-remove-duplicate-letters](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0316-remove-duplicate-letters) |
+| [0412-fizz-buzz](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0412-fizz-buzz) |
 | [0520-detect-capital](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0520-detect-capital) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0059-spiral-matrix-ii) |
+| [0412-fizz-buzz](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0412-fizz-buzz) |
 | [0946-validate-stack-sequences](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0946-validate-stack-sequences) |
 | [1260-shift-2d-grid](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/1260-shift-2d-grid) |
 | [1929-concatenation-of-array](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/1929-concatenation-of-array) |
