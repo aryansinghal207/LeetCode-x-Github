@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0371-sum-of-two-integers) |
+| [0693-binary-number-with-alternating-bits](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0693-binary-number-with-alternating-bits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Prefix Sum
 |  |
