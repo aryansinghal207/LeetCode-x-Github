@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0048-rotate-image) |
 | [0231-power-of-two](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0263-ugly-number) |
 | [0292-nim-game](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0326-power-of-three) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0059-spiral-matrix-ii) |
+| [0258-add-digits](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0412-fizz-buzz) |
 | [0946-validate-stack-sequences](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0946-validate-stack-sequences) |
 | [1260-shift-2d-grid](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/1260-shift-2d-grid) |
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0258-add-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/3867-sum-of-gcd-of-formed-pairs) |
