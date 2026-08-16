@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+| [2029-stone-game-ix](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/2029-stone-game-ix) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/1510-stone-game-iv) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/3536-maximum-product-of-two-digits) |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0229-majority-element-ii) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/1394-find-lucky-integer-in-an-array) |
+| [2029-stone-game-ix](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/2029-stone-game-ix) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -296,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0316-remove-duplicate-letters) |
 | [0324-wiggle-sort-ii](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0324-wiggle-sort-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [2029-stone-game-ix](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Monotonic Stack
@@ -328,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/2029-stone-game-ix) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -342,16 +347,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0292-nim-game) |
 | [1140-stone-game-ii](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0292-nim-game) |
 | [1510-stone-game-iv](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/2029-stone-game-ix) |
 ## Sprague–Grundy Theorem
 |  |
 | ------- |
