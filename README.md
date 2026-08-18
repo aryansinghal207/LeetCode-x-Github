@@ -272,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0112-path-sum) |
 | [0815-bus-routes](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0815-bus-routes) |
 | [3310-remove-methods-from-project](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/3310-remove-methods-from-project) |
 ## Stack
@@ -338,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0112-path-sum) |
 | [3310-remove-methods-from-project](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/3310-remove-methods-from-project) |
 ## Graph Theory
 |  |
@@ -379,4 +381,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0292-nim-game) |
+## Tree
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0112-path-sum) |
+## Binary Tree
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0112-path-sum) |
 <!---LeetCode Topics End-->
