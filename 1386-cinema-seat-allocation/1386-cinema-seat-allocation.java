@@ -1,45 +1,20 @@
 class Solution {
-    public boolean first(int n){
-        if(n>=2 && n<=5) return false;
-        return true;
-    }
-    public boolean second(int n){
-        if(n>=4 && n<=7) return false;
-        return true;
-    }
-    public boolean third(int n){
-        if(n>=6 && n<=9) return false;
-        return true;
-    }
-    public int maxNumberOfFamilies(int m, int[][] reservedSeats) {
-        int cnt=0,n=reservedSeats.length;
-        Arrays.sort(reservedSeats,(a,b)->{
-            if(a[0]!=b[0]) return Integer.compare(a[0],b[0]);
-            return Integer.compare(a[1],b[1]);
-        });
-        int r=1;
-        boolean fst=true,sec=true,thrd=true;
-        for(int i=0;i<n;i++){
-            int row=reservedSeats[i][0];
-            int col=reservedSeats[i][1];
-            if(r!=row){
-                if(fst&&thrd) cnt+=2;
-                else if(fst) cnt+=1;
-                else if(sec) cnt+=1;
-                else if(thrd) cnt+=1;
-                cnt+=(row-r-1)*2;
-                r=row;
-                fst=true;sec=true;thrd=true;
-            }
-            if(fst && !first(col)) fst=false;
-            if(sec && !second(col)) sec=false;
-            if(thrd && !third(col)) thrd=false;
+    public int maxNumberOfFamilies(int n, int[][] reservedSeats) {
+        HashMap<Integer,HashSet<Integer>> map=new HashMap<>();
+        for(int[] r:reservedSeats){
+            int row=r[0];
+            int seat=r[1];
+            map.putIfAbsent(row,new HashSet<>());
+            map.get(row).add(seat);
         }
-        if(fst && thrd) cnt+=2;
-        else if (fst) cnt++;
-        else if (sec) cnt++;
-        else if (thrd) cnt++;
-        cnt+=(m-r)*2;
-        return cnt;
+        int result=(n-map.size())*2;
+        for(HashSet<Integer> s:map.values()){
+            boolean A=!s.contains(2)&&!s.contains(3)&&!s.contains(4)&&!s.contains(5);
+            boolean B=!s.contains(4)&&!s.contains(5)&&!s.contains(6)&&!s.contains(7);
+            boolean C=!s.contains(6)&&!s.contains(7)&&!s.contains(8)&&!s.contains(9);
+            if(A&&C) result+=2;
+            else if(A||B||C) result+=1;
+        }
+        return result;
     }
 }
