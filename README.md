@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/1331-rank-transform-of-an-array) |
+| [1386-cinema-seat-allocation](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/1386-cinema-seat-allocation) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1406-stone-game-iii](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0371-sum-of-two-integers) |
 | [0693-binary-number-with-alternating-bits](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0693-binary-number-with-alternating-bits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1386-cinema-seat-allocation](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/1386-cinema-seat-allocation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Prefix Sum
 |  |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0525-contiguous-array) |
 | [0815-bus-routes](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0815-bus-routes) |
 | [1331-rank-transform-of-an-array](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/1331-rank-transform-of-an-array) |
+| [1386-cinema-seat-allocation](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/1386-cinema-seat-allocation) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -308,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0316-remove-duplicate-letters) |
 | [0324-wiggle-sort-ii](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0324-wiggle-sort-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1386-cinema-seat-allocation](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/1386-cinema-seat-allocation) |
 | [2029-stone-game-ix](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
