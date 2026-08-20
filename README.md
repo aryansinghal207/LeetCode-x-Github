@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0142-linked-list-cycle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0287-find-the-duplicate-number) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
 |  |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0229-majority-element-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0525-contiguous-array](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0525-contiguous-array) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0815-bus-routes](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0815-bus-routes) |
 | [1331-rank-transform-of-an-array](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/1386-cinema-seat-allocation) |
@@ -284,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0112-path-sum) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0815-bus-routes](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0815-bus-routes) |
 | [3310-remove-methods-from-project](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/3310-remove-methods-from-project) |
 ## Stack
@@ -352,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0112-path-sum) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [3310-remove-methods-from-project](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/3310-remove-methods-from-project) |
 ## Graph Theory
 |  |
@@ -397,12 +401,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0112-path-sum) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Binary Tree
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0112-path-sum) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Interactive
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0278-first-bad-version) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0653-two-sum-iv-input-is-a-bst) |
 <!---LeetCode Topics End-->
