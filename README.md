@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0287-find-the-duplicate-number) |
 | [0324-wiggle-sort-ii](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0324-wiggle-sort-ii) |
+| [0349-intersection-of-two-arrays](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0486-predict-the-winner](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0486-predict-the-winner) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0142-linked-list-cycle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0349-intersection-of-two-arrays) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0278-first-bad-version](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0349-intersection-of-two-arrays) |
 | [0875-koko-eating-bananas](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0875-koko-eating-bananas) |
 ## Bit Manipulation
 |  |
@@ -116,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0229-majority-element-ii) |
+| [0349-intersection-of-two-arrays](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0525-contiguous-array](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0525-contiguous-array) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -248,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0229-majority-element-ii) |
 | [0324-wiggle-sort-ii](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0324-wiggle-sort-ii) |
+| [0349-intersection-of-two-arrays](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0628-maximum-product-of-three-numbers) |
