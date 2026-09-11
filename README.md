@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0006-zigzag-conversion) |
 | [0043-multiply-strings](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0043-multiply-strings) |
 | [0072-edit-distance](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0072-edit-distance) |
 | [0171-excel-sheet-column-number](https://github.com/aryansinghal207/LeetCode-x-Github/tree/master/0171-excel-sheet-column-number) |
